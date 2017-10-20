@@ -1,0 +1,23 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Dan Green",
+    "firstName":"Dan",
+    "lastName":"Green",
+    "email":"dg@gmail.com"
+  },
+  "2": {
+    "id": "2",
+    "name": "Marie White",
+    "firstName":"Marie",
+    "lastName":"White",
+    "email":"MW@gmail.com"
+  },
+  "3": {
+    "id": "3",
+    "name": "Jessie Red",
+    "firstName":"Jessie",
+    "lastName":"Green",
+    "email":"JR@gmail.com"
+  }
+}
